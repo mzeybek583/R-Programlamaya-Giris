@@ -26,12 +26,13 @@ This is a simple R-based graphical tool that lets you select an image and conver
 
 All application files are located in this folder:
 
-red-filter-gui/
-├── gui_tcltk.R             # The GUI application in R
-├── image_red_filter.R      # The image processing script
-├── run_gui.bat             # Windows batch launcher
-├── run_gui.exe             # (Optional) compiled .bat file
+''' R-Programlamaya-Giris/
+└── RGUI/
+├── gui_tcltk.R # GUI built with tcltk
+├── image_red_filter.R # Red-tone image processor
+├── run_gui.bat # Windows batch launcher
 └── README.md
+'''
 ---
 
 ## 🚀 How to Run
